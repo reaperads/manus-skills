@@ -1,0 +1,5 @@
+name: "gate_rule_validasi_hipotesis"
+title: "Gate Rule Validasi Hipotesis"
+description: "Validate a bug-hunt hypothesis without premature falsification, using CONFIRMED, FALSIFIED, or INCONCLUSIVE verdicts, a 7-gate checklist, steelman reasoning, and Observed evidence."
+category: "Work and knowledge"
+include_in_prompt: true

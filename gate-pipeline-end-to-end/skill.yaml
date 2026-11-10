@@ -1,0 +1,5 @@
+name: "gate_pipeline_end_to_end"
+title: "Gate Pipeline End-to-End"
+description: "Apply explicit gates at each stage of a bug hunt — recon, threat modeling, hypothesis, validation — and carry gaps forward as explicit risk notes instead of dropping them."
+category: "Work and knowledge"
+include_in_prompt: true

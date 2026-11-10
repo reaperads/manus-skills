@@ -1,0 +1,5 @@
+name: "bugbounty_workflow_safe"
+title: "Bug Bounty Workflow — Safe Version"
+description: "Run a scoped bug-bounty engagement end to end with scope and permission first, one hypothesis per request, two-account proof, gate-based validation, and submission-grade reporting."
+category: "Work and knowledge"
+include_in_prompt: true
